@@ -1,0 +1,68 @@
+{
+	"appDesc": {
+		"message": "Huwag sayangin ang iyong oras nang may pagsunod. Ang Universal Bypass dinadaya ang nakakainis na mga shortener ng link."
+	},
+	"firstrunTitle": {
+		"message": "Salamat sa iyong pag i-install ng Universal Bypass!"
+	},
+	"firstrunNoScript": {
+		"message": "Gayunpaman, mukhang gumagamit ka ng NoScript o katulad, na hindi katugma sa Universal Bypass."
+	},
+	"version": {
+		"message": "Bersyon"
+	},
+	"changelog": {
+		"message": "Mga Pagbabago"
+	},
+	"update": {
+		"message": "Suriin ang mga updates"
+	},
+	"updateYes": {
+		"message": "Updated na ang mga bypasses."
+	},
+	"updateNo": {
+		"message": "Bypasses ay updated."
+	},
+	"faq": {
+		"message": "Mga Madalas na Tanong"
+	},
+	"support": {
+		"message": "Suportahan ang Universal Bypass"
+	},
+	"options": {
+		"message": "Pagpipilian"
+	},
+	"optionsLink": {
+		"message": "Baguhin ang mga pagpipilian sa Universal Bypass."
+	},
+	"optionsEnabled": {
+		"message": "Paganahin ang website bypasses."
+	},
+	"optionsNavigationDelay": {
+		"message": "Ipunta mo ako sa destinasyon pagkatapos ng % segundo(s)."
+	},
+	"privacyPolicy": {
+		"message": "Patakaran sa Pagkapribado"
+	},
+	"beforeNavigateTimer": {
+		"message": "Ikaw ay ididirektang awtomatiko sa loob ng % segundo."
+	},
+	"beforeNavigateTimerSingular": {
+		"message": "Ikaw ay ididirektang awtomatiko sa loob ng % segundo."
+	},
+	"crowdBypassed": {
+		"message": "Maaaring hindi mo na kailangang maghintay!"
+	},
+	"crowdBypassedTimer": {
+		"message": "Ito ay bubuksan sa isang bagong tab sa % segundo."
+	},
+	"crowdBypassedTimerSingular": {
+		"message": "Ito ay bubuksan sa isang bagong tab sa 1 segundo."
+	},
+	"crowdBypassedIgnore": {
+		"message": "Hindi ba ito tama?"
+	},
+	"crowdBypassedOptions": {
+		"message": "Nais mo bang mabuksan ito sa isang bagong tab kaagad o sa x segundo?"
+	}
+}

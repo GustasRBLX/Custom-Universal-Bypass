@@ -1,0 +1,56 @@
+{
+	"appDesc": {
+		"message": "Neztrácejte čas. Universal Bypass automaticky přeskočí nepříjemné zkracovače odkazů."
+	},
+	"firstrunTitle": {
+		"message": "Děkujeme za instalaci Universal Bypass!"
+	},
+	"firstrunNoScript": {
+		"message": "Niceméně, vypadá že používáte NoScript nebo něco podobného, s kterým Universal Bypass není kompatibilní."
+	},
+	"faq": {
+		"message": "Často kladené otázky (FAQ)"
+	},
+	"options": {
+		"message": "Možnosti"
+	},
+	"optionsLink": {
+		"message": "Změnit nastavení Universal Bypass."
+	},
+	"optionsEnabled": {
+		"message": "Povolit obcházení zkracovačů."
+	},
+	"optionsInstantNavigationTrackers": {
+		"message": "Okamžitě mě přesuňtě na destinaci sledovačů procházení."
+	},
+	"optionsBlockIPLoggers": {
+		"message": "Blokovat IP loggery pokud je nelze obejít."
+	},
+	"privacyPolicy": {
+		"message": "Zásady ochrany osobních údajů"
+	},
+	"optionsUserscripts": {
+		"message": "Vlastní obcházení"
+	},
+	"beforeNavigate": {
+		"message": "Jste téměř na destinaci."
+	},
+	"beforeNavigateDestination": {
+		"message": "Vaše destinace tohoto zkráceného odkazu je %"
+	},
+	"crowdBypassed": {
+		"message": "Nemusel byste čekat!"
+	},
+	"crowdBypassedInfo": {
+		"message": "Ostatní uživatelé Universal Bypass na vás čekali a náhlasit to vede k %"
+	},
+	"crowdBypassedIgnore": {
+		"message": "Nebylo to správně?"
+	},
+	"blockedTitle": {
+		"message": "Universal Bypass ochránil vaši IP před zaznamenáním."
+	},
+	"blockedSubtitle": {
+		"message": "Nechcete, aby Universal Bypass ochránil vaši IP?"
+	}
+}

@@ -1,0 +1,128 @@
+{
+	"appDesc": {
+		"message": "Μην σπαταλάς τον χρόνο σου περιμένοντας. Ο Universal Bypass παραλείπει αυτόματα ενοχλητικούς συνδέσμους συντομεύσεων."
+	},
+	"firstrunTitle": {
+		"message": "Σε ευχαριστούμε για την εγκατάσταση του Universal Bypass!"
+	},
+	"firstrunNoScript": {
+		"message": "Ωστόσο, φαίνεται να χρησιμοποιείς NoScript ή παρόμοιο, με τα οποία το Universal Bypass δεν είναι συμβατό."
+	},
+	"version": {
+		"message": "Έκδοση"
+	},
+	"changelog": {
+		"message": "Αλλαγές"
+	},
+	"update": {
+		"message": "Έλεγξε για ενημερώσεις"
+	},
+	"updateYes": {
+		"message": "Το σενάριο εισαγωγής ενημερώθηκε επιτυχώς!"
+	},
+	"updateNo": {
+		"message": "Το σενάριο εισαγωγής είναι ήδη ενημερωμένο."
+	},
+	"faq": {
+		"message": "Συχνές Ερωτήσεις (FAQ)"
+	},
+	"bypassCounter": {
+		"message": "Το Universal Bypass έχει ήδη παρακάμψει % ιστοσελίδες για εσένα."
+	},
+	"support": {
+		"message": "Υποστήριξε το Universal Bypass."
+	},
+	"options": {
+		"message": "Επιλογές"
+	},
+	"optionsLink": {
+		"message": "Άλλαξε τις επιλογές του Universal Bypass."
+	},
+	"optionsEnabled": {
+		"message": "Ενεργοποίηση παρακάμψεων ιστοσελίδων."
+	},
+	"optionsNavigationDelay": {
+		"message": "Πήγαινε με στον προορισμό μετά από % δευτερολεπτό/α. (πάτα 0 για να μεταφερθείς κατευθείαν)"
+	},
+	"optionsInstantNavigationTrackers": {
+		"message": "Πήγαινε με αμέσως στους προορισμούς των trackers."
+	},
+	"optionsBlockIPLoggers": {
+		"message": "Μπλόκαρε IP loggers, αν αυτοί δεν μπορούν να παρακάμπτουν."
+	},
+	"optionsCrowdBypass": {
+		"message": "Δώσε και να πάρε τους προορισμούς των συντομευτών που δεν παρακάμπτονται."
+	},
+	"optionsCrowdAutoOpen": {
+		"message": "Άνοιξε προορισμούς τροφοδοτημένους από τους χρήστες σε καινούργια καρτέλα μετά απο % δευτερολεπτό/α. (0 = άμεσως.)"
+	},
+	"optionsCrowdAutoClose": {
+		"message": "Να κλείνεται η καρτέλα με τον προορισμό τροφοδοτημένα από χρήστες % δευτερόλεπτο/α αφού το επισκεφθείς."
+	},
+	"privacyPolicy": {
+		"message": "Πολιτική Απορρήτου"
+	},
+	"contributors": {
+		"message": "Συνεισφέροντες"
+	},
+	"optionsUserscripts": {
+		"message": "Προσαρμοσμένες παρακάμψεις"
+	},
+	"optionsUserscriptsDescription": {
+		"message": "Αυτή είναι προηγμένη λειτουργία που απευθύνεται σε προγραμματιστές για να δημιουργήσουν δικά τους σενάρια για να παρακάμπτουν ιστοσελίδες. Όταν έχουν τελειοποιηθεί, μπορούν να σταλούν στο GitHub για να προστεθούν στο Universal Bypass και να είναι διαθέσιμα σε όλους."
+	},
+	"beforeNavigate": {
+		"message": "Είστε σχεδόν στον προορισμό σας."
+	},
+	"beforeNavigateDestination": {
+		"message": "Ο προορισμός σας είναι %"
+	},
+	"beforeNavigateTimer": {
+		"message": "Θα ανακατευθυνθείς αυτόματα σε % δευτερόλεπτα."
+	},
+	"beforeNavigateTimerSingular": {
+		"message": "Θα ανακατευθυνθείς αυτόματα σε 1 δευτερόλεπτο."
+	},
+	"beforeNavigateOptions": {
+		"message": "Θέλεις να ανακατευθυνθείς αμέσως, ή σε Χ δευτερόλεπτα;"
+	},
+	"crowdWait": {
+		"message": "Δυστυχώς, είσαι ο πρώτος που θα συνάντησες αυτόν τον σύνδεσμο, αλλά αφού έχεις περιμένει και συνδεθεί, δε θα απαιτείται από τους άλλους χρήστες του Universal Bypass."
+	},
+	"crowdDisabled": {
+		"message": "Αυτός ο ιστότοπος έχει παρακαμφθεί από άλλους χρήστες, το οποίο έχετε απενεργοποιήσει στις επιλογές."
+	},
+	"crowdBypassed": {
+		"message": "Ίσως να μη χρειαστεί να περιμένεις!"
+	},
+	"crowdBypassedInfo": {
+		"message": "Άλλοι χρήστες του Universal Bypass έχουν ήδη περιμένει για εσένα, και έχουν αναφέρει ότι αυτό οδηγεί σε %"
+	},
+	"crowdBypassedTimer": {
+		"message": "Θα ανοίξει σε καινούργια καρτέλα σε % δευτερόλεπτα."
+	},
+	"crowdBypassedTimerSingular": {
+		"message": "Θα ανοίξει σε καινούργια καρτέλα σε 1 δευτερόλεπτο."
+	},
+	"crowdCloseTimer": {
+		"message": "Η καρτέλα θα κλειστεί σε % δευτερόλεπτα."
+	},
+	"crowdCloseTimerSingular": {
+		"message": "Η καρτέλα θα κλειστεί σε 1 δευτερόλεπτο."
+	},
+	"cancel": {
+		"message": "Ακύρωση"
+	},
+	"crowdBypassedIgnore": {
+		"message": "Δεν ήταν αυτό σωστό;"
+	},
+	"crowdBypassedOptions": {
+		"message": "Θέλεις να ανοίξει σε καινούργια καρτέλα αμέσως, ή σε Χ δευτερόλεπτα;"
+	},
+	"blockedTitle": {
+		"message": "Το Universal Bypass εμπόδισε την IP σου από το να καταγραφεί."
+	},
+	"blockedSubtitle": {
+		"message": "Δεν θές να αποτρέψει το Universal Bypass τους κακόβουλους φορείς από να υποκλέψουν την IP σου;"
+	}
+}

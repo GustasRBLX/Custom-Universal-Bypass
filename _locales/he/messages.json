@@ -1,0 +1,68 @@
+{
+	"appDesc": {
+		"message": "אל תבזבז את הזמן שלך! Universal Bypass מדלג אוטומטית על מקצרי לינקים מעצבנים."
+	},
+	"firstrunTitle": {
+		"message": "תודה לך על כך שהתקנת את Universal Bypass!"
+	},
+	"firstrunNoScript": {
+		"message": "ככול הנראה אתה עושה שימוש ב-NoScript ודומיו, מה שלא מאפשר את פעולת Universal Bypass."
+	},
+	"version": {
+		"message": "גרסה"
+	},
+	"changelog": {
+		"message": "רשימת שינויים"
+	},
+	"faq": {
+		"message": "שאלות נפוצות (FAQ)"
+	},
+	"bypassCounter": {
+		"message": "מעקף אוניברסלי כבר עקף % אתרים בשבילך."
+	},
+	"support": {
+		"message": "תמוך ב-Universal Bypass"
+	},
+	"options": {
+		"message": "הגדרות"
+	},
+	"optionsLink": {
+		"message": "הגדר את Universal Bypass."
+	},
+	"optionsEnabled": {
+		"message": "הפעל מעקף לאתר."
+	},
+	"optionsNavigationDelay": {
+		"message": "קח אותי ליעד אחרי % שני(ות). (השתמש ב0 על מנת לנווט במיידי)"
+	},
+	"optionsInstantNavigationTrackers": {
+		"message": "העבר אותי למקור אוטומטית."
+	},
+	"optionsBlockIPLoggers": {
+		"message": "חסום אוספי IP אם אי אפשר לעקוף אותם."
+	},
+	"privacyPolicy": {
+		"message": "מדיניות פרטיות"
+	},
+	"optionsUserscripts": {
+		"message": "מעקפים מותאמים אישית"
+	},
+	"beforeNavigateDestination": {
+		"message": "כתובת היעד שלך היא %"
+	},
+	"beforeNavigateTimer": {
+		"message": "תועבר אוטומטית עוד % שניות."
+	},
+	"beforeNavigateTimerSingular": {
+		"message": "תועבר אוטומטית בעוד שנייה."
+	},
+	"crowdBypassed": {
+		"message": "יתכן ואתה לא צריך להמתין בכלל!"
+	},
+	"crowdBypassedInfo": {
+		"message": "משתמשים נוספים כבר המתינו, ודיווחו שהקישור מוביל ל- %"
+	},
+	"crowdBypassedIgnore": {
+		"message": "האם נתיב זה שגוי?"
+	}
+}
